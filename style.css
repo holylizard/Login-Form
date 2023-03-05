@@ -62,4 +62,5 @@ input[value="Login"] {
     font-size: 20px;
     color: #fff;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
 }
